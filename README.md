@@ -22,12 +22,3 @@ El proyecto consiste en una página web donde los usuarios pueden ingresar los n
 ## Requisitos
 
 Este proyecto es completamente independiente y no requiere ningún software adicional, solo un navegador web moderno.
-
-## Instalación
-
-1. **Clonar el repositorio**:
-
-   Primero, clona el repositorio en tu máquina local:
-
-   ```bash
-   git clone https://github.com/tu-usuario/amigo-secreto.git
